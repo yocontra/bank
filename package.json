@@ -1,0 +1,25 @@
+{
+  "name": "bank",
+  "description": "simple.com API client",
+  "version": "0.0.1",
+  "homepage": "http://github.com/wearefractal/bank",
+  "repository": "git://github.com/wearefractal/bank.git",
+  "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
+  "main": "./index.js",
+  "dependencies": {
+    "request": "~2.30.0",
+    "nop": "0.0.0"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/wearefractal/bank/raw/master/LICENSE"
+    }
+  ],
+  "devDependencies": {
+    "async": "~0.2.9"
+  }
+}
