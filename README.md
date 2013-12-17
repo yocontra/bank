@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/wearefractal/bank.png?branch=master)](https://travis-ci.org/wearefractal/bank)
-
 [![NPM version](https://badge.fury.io/js/bank.png)](http://badge.fury.io/js/bank)
 
 ## Information
