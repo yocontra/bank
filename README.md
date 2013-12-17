@@ -57,7 +57,10 @@ acct.transactions(function(err, trans){
   console.log('transactions', trans);
 });
 
-async.series(tasks);
+// this isnt really all that useful
+acct.logout(function(err){
+
+});
 ```
 
 ## Examples
