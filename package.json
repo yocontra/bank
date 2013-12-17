@@ -7,8 +7,7 @@
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
   "main": "./index.js",
   "dependencies": {
-    "request": "~2.30.0",
-    "nop": "0.0.0"
+    "request": "~2.30.0"
   },
   "engines": {
     "node": ">= 0.4.0"
