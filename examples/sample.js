@@ -43,4 +43,6 @@ tasks.push(function(done) {
   });
 });
 
-async.series(tasks);
+async.series(tasks, function(err){
+  if (err) return console.error(err);
+});
