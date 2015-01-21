@@ -1,7 +1,7 @@
 {
   "name": "bank",
   "description": "simple.com API client",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "http://github.com/wearefractal/bank",
   "repository": "git://github.com/wearefractal/bank.git",
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
