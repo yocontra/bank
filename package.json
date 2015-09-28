@@ -19,6 +19,6 @@
     }
   ],
   "devDependencies": {
-    "async": "~0.2.9"
+    "async": "1.4.2"
   }
 }
